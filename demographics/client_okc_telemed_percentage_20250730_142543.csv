@@ -1,0 +1,218 @@
+Patient,Total_Visits,Telemed_Visits,Percentage,Payors
+"Carter, Anna",9,9,100.0,"Humana MCD, OK MEDICAID"
+"Bernal, Lauren",8,8,100.0,"OK MEDICAID, OKComplete MCD"
+"Golson, Sapphire",8,8,100.0,"Humana MCD, OK MEDICAID"
+"Head, Robin",7,7,100.0,Humana MCD
+"Moran, Alison",7,7,100.0,OKComplete MCD
+"Shaver, Connor",7,7,100.0,OK MEDICAID
+"Wilkerson, Payton",6,6,100.0,OKComplete MCD
+"Chambers, Patrick 50",5,5,100.0,SELFPAY
+"Higginbotham , Cameron",5,5,100.0,OKComplete MCD
+"Lawson, Kallee",5,5,100.0,OKComplete MCD
+"McFarland, Sebastian",5,5,100.0,Aetna MCD
+"Orcutt, Nicole",5,5,100.0,OK MEDICAID
+"Phalin, Brianna 50",5,5,100.0,Aetna MCD
+"Anderson, Lindsey",4,4,100.0,OK MEDICAID
+"Brown, Clifton",4,4,100.0,Humana MCD
+"DeSherlia, Pamela",4,4,100.0,OK MEDICAID
+"Galindo, Natalie  INS",4,4,100.0,INSURANCE
+"Kieu, Tiffany INS",4,4,100.0,INSURANCE
+"Mahfoudhi , Imani",4,4,100.0,"Humana MCD, OK MEDICAID"
+"Massengale, Michael",4,4,100.0,Humana MCD
+"McGee, Natalie",4,4,100.0,Aetna MCD
+"Neron, Kyle BCBS",4,4,100.0,BCBSOK (Auto)
+"Nevins, Jamie",4,4,100.0,Humana MCD
+"Nevins, Sophia",4,4,100.0,Humana MCD
+"Shirell, Dayna",4,4,100.0,OK MEDICAID
+"Spaulding, Daniel 75",4,4,100.0,SELFPAY
+"Abeita, Desirae",3,3,100.0,Aetna MCD
+"Adcock, Kaitlyn",3,3,100.0,OKComplete MCD
+"Amador, Alizae INS",3,3,100.0,OK MEDICAID
+"Ball, Cheyenne",3,3,100.0,OK MEDICAID
+"Berry, Taylor",3,3,100.0,OKComplete MCD
+"Combs, Katelynn INS",3,3,100.0,INSURANCE
+"Diekman, Sara INS/MED",3,3,100.0,OK MEDICAID
+"Donnelly, Silke",3,3,100.0,Aetna MCD
+"Fanning, Morgan",3,3,100.0,OK MEDICAID
+"Holbrook, Kimber",3,3,100.0,Aetna MCD
+"James, Shannon",3,3,100.0,Humana MCD
+"Macip, Sherri",3,3,100.0,Aetna MCD
+"Mallory, Gabriel",3,3,100.0,Humana MCD
+"McArthur, Taeya",3,3,100.0,OKComplete MCD
+"Powell, Shuntae",3,3,100.0,Humana MCD
+"Purnell, Desiree",3,3,100.0,Aetna MCD
+"Vega, Zoe 50",3,3,100.0,SELFPAY
+"Avalos, Katelyn",2,2,100.0,Aetna MCD
+"Brice, Kristen BCBS",2,2,100.0,BCBSOK (Auto)
+"Carey, Kyla",2,2,100.0,Humana MCD
+"Denning, Mckinlee",2,2,100.0,Humana MCD
+"Gilberto, Aimeerae",2,2,100.0,Humana MCD
+"Harris, Mackenzi BCBS/MED",2,2,100.0,OK MEDICAID
+"Harrison, Veronica",2,2,100.0,Humana MCD
+"House, Josh BCBS",2,2,100.0,BCBSOK (Auto)
+"Huckabaa, Trinity",2,2,100.0,Aetna MCD
+"Long, Staci",2,2,100.0,OK MEDICAID
+"Lopez, Payton 50",2,2,100.0,SELFPAY
+"Low, Melynda INS/MED",2,2,100.0,OKComplete MCD
+"Magee, Zoey INS",2,2,100.0,INSURANCE
+"Manwell, Kadence",2,2,100.0,Humana MCD
+"Nash, Amber",2,2,100.0,OKComplete MCD
+"Pack, Eizley BCBS/MED",2,2,100.0,Humana MCD
+"Short, Heather",2,2,100.0,Humana MCD
+"Singleton, Ashley BCBS",2,2,100.0,BCBSOK (Auto)
+"Swall, Tahya",2,2,100.0,Humana MCD
+"Ward, Larenda",2,2,100.0,OK MEDICAID
+"Adams, Mason",1,1,100.0,OK MEDICAID
+"Bennett, Riley",1,1,100.0,Humana MCD
+"Chase, Ciera INS",1,1,100.0,INSURANCE
+"Covarrubias, Carman",1,1,100.0,Humana MCD
+"Delaplain, Malia",1,1,100.0,OK MEDICAID
+"Delaplain, Santana",1,1,100.0,OK MEDICAID
+"Delaplain, Stephen",1,1,100.0,OK MEDICAID
+"Dye, Ashlee INS/MED",1,1,100.0,Aetna MCD
+"EstracaNieves, Victoria",1,1,100.0,Aetna MCD
+"Galaviz, Stephany",1,1,100.0,Aetna MCD
+"Genzer, Bonni BCBS",1,1,100.0,BCBSOK (Auto)
+"Hubbard, Hanna Mobley",1,1,100.0,Humana MCD
+"Huffstutlar, Morrison INS",1,1,100.0,INSURANCE
+"Kruse Cromwell, Audrey INS",1,1,100.0,INSURANCE
+"Le, Anhthy",1,1,100.0,Humana MCD
+"Lee, Nathaniel",1,1,100.0,Aetna MCD
+"Northcutt, William",1,1,100.0,OKComplete MCD
+"Ritter, Braxton INS/MED",1,1,100.0,OKComplete MCD
+"Rodriguez, Kayla",1,1,100.0,OKComplete MCD
+"Roesel, Cory",1,1,100.0,OK MEDICAID
+"Roller, Rachael",1,1,100.0,Humana MCD
+"Vu, Quynh INS",1,1,100.0,INSURANCE
+"Williams, Bailey",1,1,100.0,OKComplete MCD
+"Bean, Taressa",7,6,85.7,OK MEDICAID
+"Baker, Cody",5,4,80.0,Humana MCD
+"Gatewood, Tannya",9,7,77.8,OK MEDICAID
+"Hayden, Tina",6,4,66.7,"Aetna MCD, OK MEDICAID"
+"Collett, Audrey",8,5,62.5,Humana MCD
+"Mukes, Nicole BCBS",5,3,60.0,BCBSOK (Auto)
+"Cruz, Valeria",4,2,50.0,OKComplete MCD
+"Roy, Colt",4,2,50.0,OK MEDICAID
+"Wilson, Sarah",4,2,50.0,Humana MCD
+"Boomer, Daysha",2,1,50.0,OK MEDICAID
+"Brown, Keziah",2,1,50.0,OK MEDICAID
+"Castleberry, Jaxon",2,1,50.0,OK MEDICAID
+"Countryman, Courtney INS",2,1,50.0,INSURANCE
+"Holsey-Lee, Abby",2,1,50.0,Aetna MCD
+"Montes, Sophia",2,1,50.0,Aetna MCD
+"Goomda, Daniel",9,4,44.4,OK MEDICAID
+"Lane, Izabelle",5,2,40.0,OKComplete MCD
+"Albers, Annabell",3,1,33.3,OKComplete MCD
+"Fitzgerald, Kevin",3,1,33.3,OKComplete MCD
+"Gatlin, Brooke MED/INS",3,1,33.3,Humana MCD
+"Kramer, Liberty",4,1,25.0,OKComplete MCD
+"Reeves, Chyanne",4,1,25.0,OK MEDICAID
+"Gaston, Regina",9,2,22.2,OK MEDICAID
+"Mukes, Rylynn INS/MED",5,1,20.0,"OK MEDICAID, OKComplete MCD"
+"Oslin, Matthew",5,1,20.0,OKComplete MCD
+"Krick, Melissa",6,1,16.7,OK MEDICAID
+"Sowards, Charlotte INS",7,1,14.3,INSURANCE
+"O'Rear, Caleb",11,1,9.1,OK MEDICAID
+"Astrain, Alonso",2,0,0.0,Humana MCD
+"Baker, Lexi",1,0,0.0,OK MEDICAID
+"Barber, Danielle MEDICARE",2,0,0.0,OK MCARE Auto
+"Bateman, Cason",2,0,0.0,OKComplete MCD
+"Becerra, Isaac",4,0,0.0,OK MEDICAID
+"Benskin, Stella 50",4,0,0.0,SELFPAY
+"Bonilla, Marisela",1,0,0.0,BCBSOK (Auto)
+"Boomer, Ella",1,0,0.0,OKComplete MCD
+"Boomer, Rome",1,0,0.0,OK MEDICAID
+"Brewer, John MED/MDC",3,0,0.0,OK MCARE Auto
+"Brouhard, Alyseea",4,0,0.0,Humana MCD
+"Cadaret, Emma",1,0,0.0,Humana MCD
+"Carreno, Mariel",1,0,0.0,Humana MCD
+"Cheatham, Nola",2,0,0.0,OK MEDICAID
+"Chrystal, Oczevion",1,0,0.0,OKComplete MCD
+"Chrystal, Oniysha",1,0,0.0,OKComplete MCD
+"Coffey, John",10,0,0.0,OK MEDICAID
+"Cole, Chesanay",8,0,0.0,OK MEDICAID
+"Combs, Leo BCBS",2,0,0.0,BCBSOK (Auto)
+"Curry, Kyley",1,0,0.0,Humana MCD
+"Davis, Brielle",1,0,0.0,Humana MCD
+"DeBord, Amelia",2,0,0.0,OK MEDICAID
+"DeLeon, Arely",8,0,0.0,Aetna MCD
+"DeLeon, Marisol",8,0,0.0,Aetna MCD
+"Dellinger, Deborah INS/MED",2,0,0.0,OK MCARE Auto
+"Donaldson, Olivia",2,0,0.0,Aetna MCD
+"Drabek, Eli",1,0,0.0,OKComplete MCD
+"Eagle, John",5,0,0.0,OK MCARE Auto
+"Eagle, Phyllis",2,0,0.0,OK MCARE Auto
+"Eagleston, Shae (Sanders)",3,0,0.0,OKComplete MCD
+"Ervin, Farah",9,0,0.0,OK MEDICAID
+"Franco, Jennifer BCBS",4,0,0.0,BCBSOK (Auto)
+"Fulton, Weston 50",4,0,0.0,SELFPAY
+"Gallardo, Naiara",4,0,0.0,Humana MCD
+"Gardner, Maria",1,0,0.0,OK MEDICAID
+"Gililland, Justin 50",3,0,0.0,SELFPAY
+"Goldman, Jake",10,0,0.0,OK MEDICAID
+"Golly, Xyaire",2,0,0.0,Aetna MCD
+"Gomez, Iker",2,0,0.0,OK MEDICAID
+"Greer, Kasyn",1,0,0.0,Aetna MCD
+"Guadalupe, Thomas INS/MED",7,0,0.0,OK MCARE Auto
+"Hale, Fallon INS/MED",2,0,0.0,OK MEDICAID
+"Hand, Colleen",2,0,0.0,OKComplete MCD
+"Hanley, Isaac",2,0,0.0,Humana MCD
+"Haun, Thomas INS",2,0,0.0,BCBSOK (Auto)
+"Johnson, Austin",2,0,0.0,Aetna MCD
+"Jones, Heather",1,0,0.0,Aetna MCD
+"Kelley, Boston",3,0,0.0,OK MEDICAID
+"Kong, Benjamin",3,0,0.0,Humana MCD
+"Langlois, Aimee",8,0,0.0,OKComplete MCD
+"Lee, Jenice INS/MED",1,0,0.0,OK MEDICAID
+"Linderman, Zechariah MDC/MED",1,0,0.0,OK MCARE Auto
+"Lippe, Zaybree",5,0,0.0,OKComplete MCD
+"Long, Autumn MDC/MED",4,0,0.0,"OK MCARE Auto, OK MCARE Auto*"
+"Macklin, Nicole",5,0,0.0,Humana MCD
+"Marquez, Lainey",2,0,0.0,Aetna MCD
+"Marquez, Linlee",3,0,0.0,Aetna MCD
+"Martin, Jennah (Daniel)",2,0,0.0,OKComplete MCD
+"Matthews, Demi",8,0,0.0,Aetna MCD
+"Matthews, Dotty",8,0,0.0,Aetna MCD
+"McIntire, Macy",4,0,0.0,"Aetna MCD, OK MEDICAID"
+"Mitchell, Shawn",3,0,0.0,Humana MCD
+"Moriarty, Alana",8,0,0.0,OK MEDICAID
+"Moriarty, Keira",8,0,0.0,OK MEDICAID
+"Munoz, Paulina INS",2,0,0.0,INSURANCE
+"Nailon, Kelsey",6,0,0.0,OKComplete MCD
+"Newby-Moore, Kamree",2,0,0.0,OK MEDICAID
+"Oslin, Brittany",2,0,0.0,OKComplete MCD
+"Owens, Charity",1,0,0.0,Aetna MCD
+"Pitts, Christopher",4,0,0.0,Humana MCD
+"Poston, Diana",5,0,0.0,OK MEDICAID
+"Raisch, Eleora",1,0,0.0,Humana MCD
+"Raisch, Havellah",1,0,0.0,Humana MCD
+"Readel Hickey, Jessica INS",2,0,0.0,"INSURANCE, OK MEDICAID"
+"Reeves, Jayce",2,0,0.0,OKComplete MCD
+"Reyes, Jorge",1,0,0.0,Humana MCD
+"Ricord, Ariana",3,0,0.0,Humana MCD
+"Rogers, Stetson",4,0,0.0,Aetna MCD
+"Roy, Waylon",4,0,0.0,OK MEDICAID
+"Russom, Jackson",7,0,0.0,Humana MCD
+"Samuel, Melissa",3,0,0.0,OK MCARE Auto
+"Scott, Adrienne",1,0,0.0,OK MEDICAID
+"Shepherd, Theodore 50",3,0,0.0,SELFPAY
+"Simpkins, Joslyn",3,0,0.0,Humana MCD
+"Smirl, Kate BCBS",4,0,0.0,BCBSOK (Auto)
+"Sopher, Hailey",4,0,0.0,OK MEDICAID
+"Sterling, Nelson BCBS",5,0,0.0,BCBSOK (Auto)
+"Sullivan, Alisha INS",2,0,0.0,INSURANCE
+"Sullivan, Brittney",3,0,0.0,Aetna MCD
+"Switzer, Emily INS/MED",1,0,0.0,OK MCARE Auto
+"Tanner, Seth",12,0,0.0,"OK MEDICAID, OKComplete MCD"
+"Thomas, Matthew",6,0,0.0,"Aetna MCD, OK MEDICAID"
+"Tindel, Paula",1,0,0.0,OK MCARE Auto
+"Traxler, Elaina",2,0,0.0,OK MEDICAID
+"Villalobos, Natsumi",4,0,0.0,OK MEDICAID
+"Villemarette, Joseph 50",5,0,0.0,SELFPAY
+"Walker, Angel",9,0,0.0,OK MEDICAID
+"Webb, Quinton INS",2,0,0.0,INSURANCE
+"Wheeler, Shannon",3,0,0.0,OK MCARE Auto
+"Whitbey, Arial",1,0,0.0,Aetna MCD
+"White, Robyn",5,0,0.0,OKComplete MCD
+"Williams, Lynncia",8,0,0.0,OK MEDICAID
+"Young, Taylor 50",3,0,0.0,SELFPAY
